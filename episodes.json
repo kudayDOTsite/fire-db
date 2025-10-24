@@ -1,0 +1,61 @@
+{
+  "episodes": [
+    {
+      "id": "mmm_001",
+      "title": "Mr. Money Mustache'ın Erken Emeklilik Felsefesi",
+      "file_url": "https://github.com/kuday/financial-podcasts/raw/main/sesler/mmm/1.m4a",
+      "summary": "Mr. Money Mustache'ın ilk 5 yazısının özeti: Radikal tasarruf stratejileri, finansal matrix'ten çıkış yolları ve gerçekçi tartışmalar. Erken emeklilik için gerekli zihniyet değişikliği ve pratik uygulamalar.",
+      "author": "Mr. Money Mustache",
+      "source": "https://www.mrmoneymustache.com",
+      "tags": ["FIRE", "Erken Emeklilik", "Radikal Tasarruf", "Zihniyet Değişikliği", "Finansal Bağımsızlık"],
+      "duration": "15:30",
+      "category": "mr_money_mustache",
+      "language": "Türkçe",
+      "source_articles": [
+        "https://www.mrmoneymustache.com/2011/04/06/meet-mr-money-mustache/",
+        "https://www.mrmoneymustache.com/2011/04/07/meet-the-realist/",
+        "https://www.mrmoneymustache.com/2011/04/08/mr-money-mustaches-own-story/",
+        "https://www.mrmoneymustache.com/2011/04/10/post-4-what-am-i-supposed-to-do-with-all-this-money/",
+        "https://www.mrmoneymustache.com/2011/04/11/getting-started-2-the-higher-cause/"
+      ]
+    },
+    {
+      "id": "mmm_002",
+      "title": "Bisikletten %75 Tasarrufa",
+      "file_url": "https://github.com/kuday/financial-podcasts/raw/main/sesler/mmm/2.m4a",
+      "summary": "Finansal özgürlük ve erken emeklilik için ezber bozan kilit stratejiler. Bisiklet kullanımından araç maliyetlerine, kısa vadeli düşünceden kurtulma yollarından ikinci el araç alımına kadar pratik tasarruf yöntemleri ve yaşam tarzı değişiklikleri.",
+      "author": "Mr. Money Mustache",
+      "source": "https://www.mrmoneymustache.com",
+      "tags": ["Bisiklet", "Tasarruf", "Araç Maliyetleri", "Yaşam Tarzı", "Kısa Vadeli Düşünce", "İkinci El Araç"],
+      "duration": "18:45",
+      "category": "mr_money_mustache",
+      "language": "Türkçe",
+      "source_articles": [
+        "https://www.mrmoneymustache.com/2011/04/13/what-does-early-retirement-mean-anyway/",
+        "https://www.mrmoneymustache.com/2011/04/15/getting-started-3-eliminate-short-termitis-the-bankruptcy-disease/",
+        "https://www.mrmoneymustache.com/2011/04/17/getting-started-4-if-you-try-sometimes-you-just-might-find-you-get-what-you-need/",
+        "https://www.mrmoneymustache.com/2011/04/18/get-rich-with-bikes/",
+        "https://www.mrmoneymustache.com/2011/04/19/how-to-come-out-way-ahead-when-buying-a-used-car/"
+      ]
+    },
+    {
+      "id": "mmm_003",
+      "title": "Rahatsızlığı Paraya Çevirme Sanatı",
+      "file_url": "https://github.com/kuday/financial-podcasts/raw/main/sesler/mmm/3.m4a",
+      "summary": "Mr. Money Mustache ve finansal bağımsızlığın 'Hasselhoff Etkisi'. Rahatsızlığı paraya çevirme sanatı, gerçek insanlar için FIRE stratejileri, yanıltıcı emeklilik hesaplayıcıları, nakit yastığı yerine esnek borç kullanımı ve eş/partner ile finansal konuşmalar hakkında pratik rehber.",
+      "author": "Mr. Money Mustache",
+      "source": "https://www.mrmoneymustache.com",
+      "tags": ["Hasselhoff Etkisi", "Rahatsızlık", "Para Kazanma", "Gerçek İnsanlar", "Emeklilik Hesaplayıcıları", "Nakit Yastığı", "Esnek Borç", "Eş İletişimi"],
+      "duration": "20:15",
+      "category": "mr_money_mustache",
+      "language": "Türkçe",
+      "source_articles": [
+        "https://www.mrmoneymustache.com/2011/04/20/yeah-mr-money-mustache-good-for-you-but-what-about-real-people/",
+        "https://www.mrmoneymustache.com/2011/04/21/silly-and-misleading-retirement-calculators/",
+        "https://www.mrmoneymustache.com/2011/04/22/springy-debt-instead-of-a-cash-cushion/",
+        "https://www.mrmoneymustache.com/2011/04/24/unleash-your-inner-hasselhoff-for-greater-riches/",
+        "https://www.mrmoneymustache.com/2011/04/25/having-the-talk-with-a-current-or-potential-mate/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "app_info": {
+    "name": "Finansal Özgürlük Ses Kütüphanesi",
+    "version": "1.0.0",
+    "description": "FIRE ve finansal özgürlük konularında sesli içerik veritabanı"
+  },
+  "categories": [
+    {
+      "id": "mr_money_mustache",
+      "title": "Mr. Money Mustache",
+      "description": "Mr. Money Mustache blog yazılarının sesli özetleri",
+      "icon": "https://www.mrmoneymustache.com/wp-content/thesis/skins/mrmoneymustache/images/logo.png",
+      "color": "#b32d2e",
+      "metadata": {
+        "total_episodes": 3,
+        "languages": ["Türkçe"],
+        "difficulty_levels": ["Başlangıç"],
+        "last_updated": "2025-01-27",
+        "version": "1.0.0"
+      }
+    }
+  ],
+  "contents": {
+    "mr_money_mustache": [
+      "mmm_001",
+      "mmm_002",
+      "mmm_003"
+    ]
+  },
+  "last_updated": "2025-01-27",
+  "total_episodes": 3,
+  "github_base_url": "https://github.com/kuday/financial-podcasts/raw/main/",
+  "api_endpoints": {
+    "episodes": "episodes.json",
+    "categories": "config.json"
+  }
+}
