@@ -11,8 +11,8 @@
       "description": "Mr. Money Mustache blog yazılarının sesli özetleri",
       "icon": "https://www.mrmoneymustache.com/wp-content/thesis/skins/mrmoneymustache/images/logo.png",
       "color": "#b32d2e",
-      "metadata": {
-        "total_episodes": 3,
+        "metadata": {
+          "total_episodes": 4,
         "languages": ["Türkçe"],
         "difficulty_levels": ["Başlangıç"],
         "last_updated": "2025-01-27",
@@ -20,15 +20,16 @@
       }
     }
   ],
-  "contents": {
-    "mr_money_mustache": [
-      "mmm_001",
-      "mmm_002",
-      "mmm_003"
-    ]
-  },
+        "contents": {
+          "mr_money_mustache": [
+            "mmm_001",
+            "mmm_002",
+            "mmm_003",
+            "mmm_004"
+          ]
+        },
   "last_updated": "2025-01-27",
-  "total_episodes": 3,
+  "total_episodes": 4,
   "github_base_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/",
   "api_endpoints": {
     "episodes": "episodes.json",
