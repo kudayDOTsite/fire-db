@@ -29,7 +29,7 @@
   },
   "last_updated": "2025-01-27",
   "total_episodes": 3,
-  "github_base_url": "https://github.com/kuday/financial-podcasts/raw/main/",
+  "github_base_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/",
   "api_endpoints": {
     "episodes": "episodes.json",
     "categories": "config.json"
