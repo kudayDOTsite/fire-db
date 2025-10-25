@@ -119,6 +119,26 @@
         "https://www.mrmoneymustache.com/2011/05/13/hows-the-blog-doing-anyway/",
         "https://www.mrmoneymustache.com/2011/05/12/the-coffee-machine-that-can-pay-for-a-university-education/"
       ]
+    },
+    {
+      "id": "mmm_007",
+      "title": "MMM Finansal Özgürlük Rehberi",
+      "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/mmm/7.opus",
+      "summary": "Dave Ramsey ile Mr. Money Mustache arasındaki felsefe farkları, borsada para kazanma stratejileri, Olimpiyat halterleri ile zenginleşme yöntemleri, bira saati kültürü ve yerli Amerikalıların finansal yaklaşımları. Farklı finansal felsefelerin karşılaştırması ve pratik yatırım stratejileri. Kapsamlı finansal özgürlük rehberi ve yaşam tarzı değişiklikleri.",
+      "author": "Mr. Money Mustache",
+      "source": "https://www.mrmoneymustache.com",
+      "tags": ["Dave Ramsey", "Borsa Stratejileri", "Olimpiyat Halterleri", "Bira Kültürü", "Yerli Amerikalılar", "Finansal Felsefeler", "Yatırım Stratejileri", "Karşılaştırmalı Analiz", "Finansal Özgürlük Rehberi"],
+      "duration": "06:57",
+      "file_size": "1.6MB",
+      "category": "mr_money_mustache",
+      "language": "Türkçe",
+      "source_articles": [
+        "https://www.mrmoneymustache.com/2011/05/19/mr-money-mustache-vs-dave-ramsey/",
+        "https://www.mrmoneymustache.com/2011/05/18/how-to-make-money-in-the-stock-market/",
+        "https://www.mrmoneymustache.com/2011/05/17/get-rich-with-olympic-barbells/",
+        "https://www.mrmoneymustache.com/2011/05/20/its-beer-o-clock/",
+        "https://www.mrmoneymustache.com/2011/05/22/weekend-edition-what-would-the-native-americans-do/"
+      ]
     }
   ]
 }
