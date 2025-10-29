@@ -300,5 +300,24 @@
         "https://www.mrmoneymustache.com/2011/08/07/summer-clearance-sale-on-us-stocks/"
       ]
     }
+    ,
+    {
+      "id": "mmm_016",
+      "title": "26 Yaşında Emeklilik mi? Craigslist ile Zenginlik ve Gündem"
+      , "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/mmm/16.opus"
+      , "summary": "26 yaşında emeklilik mümkün mü? Gerçek bir okur vaka analiziyle harcama, gelir ve yatırım oranlarının emekliliğe etkisi; Craigslist ile akıllı al-sat stratejileri; ve 'Stupidland' güncel olayları üzerinden tüketim alışkanlıklarının eleştirisi. Küçük kârlı işlemlerin bileşik etkisi ve disiplinli nakit akışıyla hızlandırılmış finansal özgürlük."
+      , "author": "Mr. Money Mustache"
+      , "source": "https://www.mrmoneymustache.com"
+      , "tags": ["Erken Emeklilik", "Okur Vaka Analizi", "Craigslist", "Yan Gelir", "Bileşik Etki", "Tüketim Eleştirisi"]
+      , "duration": "05:37"
+      , "file_size": "1.3MB"
+      , "category": "mr_money_mustache"
+      , "language": "Türkçe"
+      , "source_articles": [
+        "https://www.mrmoneymustache.com/2011/08/09/reader-case-study-is-this-26-year-old-ready-to-retire/",
+        "https://www.mrmoneymustache.com/2011/08/11/get-rich-with-craigslist/",
+        "https://www.mrmoneymustache.com/2011/08/12/current-events-in-stupidland/"
+      ]
+    }
   ]
 }
