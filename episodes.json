@@ -494,6 +494,24 @@
         "https://www.mrmoneymustache.com/2011/11/02/two-unusual-internet-roadtrips/",
         "https://www.mrmoneymustache.com/2011/11/03/how-to-ride-your-bike-all-winter-and-love-it/"
       ]
+    },
+    {
+      "id": "mmm_026",
+      "title": "Kütüphaneden Zenginlik, Benzin Dersleri ve Finansal Öğretmenler",
+      "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/mmm/26.opus",
+      "summary": "Finansal özgürlük kitaplarının eleştirel değerlendirmesi ve hangi finansal öğretmenlerin gerçekten değerli olduğunu ayırt etme yöntemleri, kütüphane kaynaklarını kullanarak ücretsiz finansal eğitim alma ve kütüphanenin finansal özgürlük yolundaki kritik rolü, benzin fiyatlarının gerçek maliyeti ve ulaşım seçeneklerinin finansal etkisi üzerine derinlemesine analiz. Ücretsiz kaynaklarla finansal eğitim, eleştirel düşünme ve ulaşım maliyetleri hakkında pratik içgörüler.",
+      "author": "Mr. Money Mustache",
+      "source": "https://www.mrmoneymustache.com",
+      "tags": ["Kitap İncelemesi", "Book Review", "Kütüphane", "Library", "Benzin", "Gasoline", "Finansal Eğitim", "Ulaşım Maliyetleri", "Ücretsiz Kaynaklar"],
+      "duration": "05:18",
+      "file_size": "1.3MB",
+      "category": "mr_money_mustache",
+      "language": "Türkçe",
+      "source_articles": [
+        "https://www.mrmoneymustache.com/2011/11/06/book-review-will-this-guy-really-teach-you-to-be-rich/",
+        "https://www.mrmoneymustache.com/2011/11/08/get-rich-with-the-library/",
+        "https://www.mrmoneymustache.com/2011/11/09/a-little-lesson-on-gasoline/"
+      ]
     }
   ]
 }
