@@ -12,8 +12,8 @@
       "icon": "https://www.mrmoneymustache.com/wp-content/thesis/skins/mrmoneymustache/images/logo.png",
       "color": "#b32d2e",
         "metadata": {
-          "total_episodes": 30,
-          "total_size": "115.2MB",
+          "total_episodes": 31,
+          "total_size": "120.5MB",
         "languages": ["Türkçe"],
         "difficulty_levels": ["Başlangıç"],
         "last_updated": "2025-01-27",
@@ -52,11 +52,12 @@
             "mmm_027",
             "mmm_028",
             "mmm_029",
-            "mmm_030"
+            "mmm_030",
+            "mmm_031"
           ]
         },
   "last_updated": "2025-01-27",
-  "total_episodes": 30,
+  "total_episodes": 31,
   "github_base_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/",
   "api_endpoints": {
     "episodes": "episodes.json",

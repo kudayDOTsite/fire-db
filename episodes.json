@@ -589,6 +589,26 @@
         "https://www.mrmoneymustache.com/2011/12/12/watching-your-stash-with-mint/",
         "https://www.mrmoneymustache.com/2011/12/14/are-you-obsessed-with-early-retirement/"
       ]
+    },
+    {
+      "id": "mmm_031",
+      "title": "Seyahat, Turist Tuzakları, Temettü Yatırımı ve Anti-Mustachian Şehirlerde Başarı",
+      "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/mmm/31.opus",
+      "summary": "Mustachian aile seyahatleri ve hareketli yaşam tarzı; turist tuzaklarından kaçınma ve akıllı seyahat stratejileri; temettü büyümesi yatırımı (dividend growth investing) ve uzun vadeli pasif gelir oluşturma; anti-mustachian şehirlerde bile finansal özgürlük yolunda ilerleme; temettü aristokratları (dividend aristocrats) ve güvenilir yatırım yaklaşımları. Seyahat optimizasyonu, yatırım stratejileri ve zorlu ortamlarda başarılı olma yöntemleri üzerine kapsamlı bir rehber.",
+      "author": "Mr. Money Mustache",
+      "source": "https://www.mrmoneymustache.com",
+      "tags": ["Seyahat", "Turist Tuzakları", "Temettü Yatırımı", "Dividend Growth", "Dividend Aristocrats", "Anti-Mustachian Şehir", "Pasif Gelir"],
+      "duration": "22:03",
+      "file_size": "5.3MB",
+      "category": "mr_money_mustache",
+      "language": "Türkçe",
+      "source_articles": [
+        "https://www.mrmoneymustache.com/2011/12/16/mustache-family-on-the-move-next-week/",
+        "https://www.mrmoneymustache.com/2011/12/20/money-mustache-vs-tourist-trap/",
+        "https://www.mrmoneymustache.com/2011/12/22/guest-posting-from-dividend-mantra-what-is-dividend-growth-investing/",
+        "https://www.mrmoneymustache.com/2011/12/28/prospering-in-an-anti-mustachian-city/",
+        "https://www.mrmoneymustache.com/2012/01/02/guest-posting-the-dividend-aristocrats/"
+      ]
     }
   ]
 }
