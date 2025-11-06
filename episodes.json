@@ -21,24 +21,6 @@
       ]
     },
     {
-      "id": "mmm_028",
-      "title": "Isı Faturasını Yok Et, Çöpten Servete, PEX ile Ustalık",
-      "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/mmm/28.opus",
-      "summary": "Ev ısıtma sistemlerinin mantığını anlayıp ısı kayıplarını azaltarak faturanı dramatik biçimde düşürme; tüketim atıkları ile birikim (stash) arasındaki görünmez bağ; PEX tesisatla kendi işini yaparak maliyeti ve arıza riskini azaltma. Mühendislik bakışı, davranışsal tasarruf ve pratik el becerilerinin finansal özgürlüğe etkisi üzerine uygulanabilir bir rehber.",
-      "author": "Mr. Money Mustache",
-      "source": "https://www.mrmoneymustache.com",
-      "tags": ["Isı Faturası", "Isı Yalıtımı", "PEX", "Tesisat", "Atık Azaltma", "Verimlilik"],
-      "duration": "20:57",
-      "file_size": "5.0MB",
-      "category": "mr_money_mustache",
-      "language": "Türkçe",
-      "source_articles": [
-        "https://www.mrmoneymustache.com/2011/11/18/first-understand-then-destroy-your-home-heating-bill/",
-        "https://www.mrmoneymustache.com/2011/11/21/the-connection-between-trash-and-stash/",
-        "https://www.mrmoneymustache.com/2011/11/23/how-to-become-a-kickass-plumber-with-pex/"
-      ]
-    },
-    {
       "id": "mmm_002",
       "title": "Bisikletten %75 Tasarrufa",
       "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/mmm/2.opus",
@@ -549,6 +531,43 @@
         "https://www.mrmoneymustache.com/2011/11/15/foreclosure-project-increasing-profits-with-the-recycled-building-materials-store/",
         "https://www.mrmoneymustache.com/2011/11/14/eulogy-to-a-great-dad/",
         "https://www.mrmoneymustache.com/2011/11/17/an-online-forum-for-mustachians-on-reddit/"
+      ]
+    },
+    {
+      "id": "mmm_028",
+      "title": "Isı Faturasını Yok Et, Çöpten Servete, PEX ile Ustalık",
+      "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/mmm/28.opus",
+      "summary": "Ev ısıtma sistemlerinin mantığını anlayıp ısı kayıplarını azaltarak faturanı dramatik biçimde düşürme; tüketim atıkları ile birikim (stash) arasındaki görünmez bağ; PEX tesisatla kendi işini yaparak maliyeti ve arıza riskini azaltma. Mühendislik bakışı, davranışsal tasarruf ve pratik el becerilerinin finansal özgürlüğe etkisi üzerine uygulanabilir bir rehber.",
+      "author": "Mr. Money Mustache",
+      "source": "https://www.mrmoneymustache.com",
+      "tags": ["Isı Faturası", "Isı Yalıtımı", "PEX", "Tesisat", "Atık Azaltma", "Verimlilik"],
+      "duration": "20:57",
+      "file_size": "5.0MB",
+      "category": "mr_money_mustache",
+      "language": "Türkçe",
+      "source_articles": [
+        "https://www.mrmoneymustache.com/2011/11/18/first-understand-then-destroy-your-home-heating-bill/",
+        "https://www.mrmoneymustache.com/2011/11/21/the-connection-between-trash-and-stash/",
+        "https://www.mrmoneymustache.com/2011/11/23/how-to-become-a-kickass-plumber-with-pex/"
+      ]
+    },
+    {
+      "id": "mmm_029",
+      "title": "Alışverişsiz Gün, 800 Dolarlık Hediye ve Erken Emeklilik Meşalesi",
+      "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/mmm/29.opus",
+      "summary": "Buy Nothing Day ve Buy Nothing Month ile tüketim kültürüne karşı duruş; 800 dolarlık finansal hediye stratejileri ve pratik uygulamalar; erken emeklilik topluluğunda bilgi ve deneyim aktarımı; motorlu araçlar yerine kas gücü kullanımının finansal ve sağlık faydaları. Tüketim karşıtlığı, cömertlik, topluluk dayanışması ve sürdürülebilir yaşam tarzları üzerine derinlemesine bir inceleme.",
+      "author": "Mr. Money Mustache",
+      "source": "https://www.mrmoneymustache.com",
+      "tags": ["Buy Nothing Day", "Tüketim Karşıtlığı", "Erken Emeklilik", "Kas Gücü", "Sürdürülebilirlik", "Topluluk"],
+      "duration": "19:09",
+      "file_size": "4.6MB",
+      "category": "mr_money_mustache",
+      "language": "Türkçe",
+      "source_articles": [
+        "https://www.mrmoneymustache.com/2011/11/24/happy-thanksgiving-and-buy-nothing-day-and-month/",
+        "https://www.mrmoneymustache.com/2011/11/30/an-800-gift-from-me-to-you/",
+        "https://www.mrmoneymustache.com/2011/12/01/mr-money-mustache-gets-passed-the-early-retirement-torch/",
+        "https://www.mrmoneymustache.com/2011/12/05/muscle-over-motor/"
       ]
     }
   ]
