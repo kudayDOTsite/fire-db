@@ -669,6 +669,26 @@
         "https://www.mrmoneymustache.com/2012/01/30/your-money-can-work-harder-than-you-can/",
         "https://www.mrmoneymustache.com/2012/02/01/mr-money-mustaches-big-mistake/"
       ]
+    },
+    {
+      "id": "mmm_035",
+      "title": "Seyahat, Tutumluluk Felsefesi ve Cesur Yeni Hayat",
+      "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/mmm/35.opus",
+      "summary": "Lake Tahoe seyahat planları ve finansal özgürlüğün seyahat avantajları; tutumluluğun yoksunluk değil bilinçli tercih olduğu felsefesi; Mrs. Money Mustache'ın hatıraları ve aile dinamikleri; erken emeklilik sonrası cesur yeni hayat deneyimleri; alkol ve uyuşturucunun marjinal fayda analizi ve yaşam kalitesi üzerindeki etkileri. Seyahat özgürlüğü, tutumluluk zihniyeti, aile anıları, yeni yaşam deneyimleri ve bilinçli tüketim kararları üzerine kapsamlı bir rehber.",
+      "author": "Mr. Money Mustache",
+      "source": "https://www.mrmoneymustache.com",
+      "tags": ["Seyahat", "Tutumluluk", "Aile", "Erken Emeklilik", "Yaşam Kalitesi", "Bilinçli Tüketim"],
+      "duration": "17:37",
+      "file_size": "4.2MB",
+      "category": "mr_money_mustache",
+      "language": "Türkçe",
+      "source_articles": [
+        "https://www.mrmoneymustache.com/2012/02/03/mustache-on-the-move-heading-to-lake-tahoe/",
+        "https://www.mrmoneymustache.com/2012/02/06/guest-post-from-the-military-guide-frugality-is-not-deprivation/",
+        "https://www.mrmoneymustache.com/2012/02/08/mrs-money-mustache-remembers/",
+        "https://www.mrmoneymustache.com/2012/02/09/brave-new-life/",
+        "https://www.mrmoneymustache.com/2012/02/13/understand-the-marginal-utility-of-booze-and-drugs/"
+      ]
     }
   ]
 }
