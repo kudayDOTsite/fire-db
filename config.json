@@ -27,8 +27,8 @@
       "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Books_icon.png",
       "color": "#2f855a",
         "metadata": {
-          "total_episodes": 3,
-          "total_size": "11.5MB",
+          "total_episodes": 4,
+          "total_size": "13.4MB",
         "languages": ["Türkçe"],
         "difficulty_levels": ["Orta"],
         "last_updated": "2025-11-20",
@@ -82,11 +82,12 @@
           "sesli_kitap_ozetleri": [
             "sko_001",
             "sko_002",
-            "sko_003"
+            "sko_003",
+            "sko_004"
           ]
         },
   "last_updated": "2025-11-20",
-  "total_episodes": 43,
+  "total_episodes": 44,
   "github_base_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/",
   "api_endpoints": {
     "episodes": "episodes.json",
