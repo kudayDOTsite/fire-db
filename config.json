@@ -19,6 +19,21 @@
         "last_updated": "2025-01-27",
         "version": "1.0.0"
       }
+    },
+    {
+      "id": "sesli_kitap_ozetleri",
+      "title": "Sesli Kitap Özetleri",
+      "description": "Finansal özgürlük ve erken emeklilik odaklı kitap özetleri",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Books_icon.png",
+      "color": "#2f855a",
+        "metadata": {
+          "total_episodes": 1,
+          "total_size": "3.7MB",
+        "languages": ["Türkçe"],
+        "difficulty_levels": ["Orta"],
+        "last_updated": "2025-11-19",
+        "version": "1.0.0"
+      }
     }
   ],
         "contents": {
@@ -63,10 +78,13 @@
             "mmm_038",
             "mmm_039",
             "mmm_040"
+          ],
+          "sesli_kitap_ozetleri": [
+            "sko_001"
           ]
         },
-  "last_updated": "2025-01-27",
-  "total_episodes": 40,
+  "last_updated": "2025-11-19",
+  "total_episodes": 41,
   "github_base_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/",
   "api_endpoints": {
     "episodes": "episodes.json",
