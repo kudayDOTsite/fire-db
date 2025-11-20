@@ -27,8 +27,8 @@
       "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Books_icon.png",
       "color": "#2f855a",
         "metadata": {
-          "total_episodes": 4,
-          "total_size": "13.4MB",
+          "total_episodes": 5,
+          "total_size": "17.5MB",
         "languages": ["Türkçe"],
         "difficulty_levels": ["Orta"],
         "last_updated": "2025-11-20",
@@ -83,11 +83,12 @@
             "sko_001",
             "sko_002",
             "sko_003",
-            "sko_004"
+            "sko_004",
+            "sko_005"
           ]
         },
   "last_updated": "2025-11-20",
-  "total_episodes": 44,
+  "total_episodes": 45,
   "github_base_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/",
   "api_endpoints": {
     "episodes": "episodes.json",
