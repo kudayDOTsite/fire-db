@@ -915,6 +915,22 @@
       "source_articles": [
         "https://www.hmhbooks.com/shop/books/the-great-crash-1929/9780547248165"
       ]
+    },
+    {
+      "id": "ekk_002",
+      "title": "Manias, Panics, and Crashes - Sesli Kitap Özeti",
+      "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/ekonomik_kriz_kitap_ozetleri/Kindleberger_den_Cokuslerin_Minsky_Anatomisi.opus",
+      "summary": "Charles P. Kindleberger'in \"Manias, Panics, and Crashes: A History of Financial Crises\" kitabının özeti: 1600'lerden günümüze tüm büyük finansal krizlerin ortak yapısını; spekülatif coşku (mania), panik ve çöküş döngüleri üzerinden anlatır. Kredi genişlemesi, likidite bolluğu, kaldıraç, beklenti balonları ve 'son kredi mercii' eksikliğinin krizleri nasıl derinleştirdiğini tarihsel örneklerle gösterir; Minsky'nin finansal istikrarsızlık hipoteziyle birleşerek bugünün balonlarını ve çöküşlerini okumak için bir şablon sunar. Ekonomik çılgınlıkların kalıplarını ve tekrar eden insan psikolojisini anlamak için temel referans kabul edilen klasik bir çalışma.",
+      "author": "Charles P. Kindleberger, Robert Z. Aliber",
+      "source": "https://www.wiley.com/en-us/Manias%2C+Panics%2C+and+Crashes%3A+A+History+of+Financial+Crises%2C+7th+Edition-p-9781119552004",
+      "tags": ["Finansal Krizler", "Ekonomik Balonlar", "Mania", "Panik", "Çöküş", "Minsky Hipotezi", "Davranışsal Finans"],
+      "duration": "16:12",
+      "file_size": "3.9MB",
+      "category": "ekonomik_kriz_kitap_ozetleri",
+      "language": "Türkçe",
+      "source_articles": [
+        "https://www.wiley.com/en-us/Manias%2C+Panics%2C+and+Crashes%3A+A+History+of+Financial+Crises%2C+7th+Edition-p-9781119552004"
+      ]
     }
   ]
 }
