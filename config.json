@@ -22,8 +22,8 @@
     },
     {
       "id": "sesli_kitap_ozetleri",
-      "title": "Sesli Kitap Özetleri",
-      "description": "Finansal özgürlük ve erken emeklilik odaklı kitap özetleri",
+      "title": "Finansal Özgürlük Hareketi Kitap Özetleri",
+      "description": "Finansal özgürlük, erken emeklilik (FIRE) ve para ile anlamlı bir hayat kurma üzerine temel kitapların Türkçe sesli özetleri",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Books_icon.png",
       "color": "#2f855a",
         "metadata": {
@@ -31,7 +31,22 @@
           "total_size": "25.6MB",
         "languages": ["Türkçe"],
         "difficulty_levels": ["Orta"],
-        "last_updated": "2025-11-20",
+        "last_updated": "2025-11-21",
+        "version": "1.0.0"
+      }
+    },
+    {
+      "id": "ekonomik_kriz_kitap_ozetleri",
+      "title": "Ekonomik Kriz ve Çöküş Kitap Özetleri",
+      "description": "Dünyadaki büyük ekonomik krizler, finansal balonlar ve sistemik çöküşleri anlatan kitapların Türkçe sesli özetleri",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Credit-crisis_icon.png",
+      "color": "#b7791f",
+        "metadata": {
+          "total_episodes": 0,
+          "total_size": "0MB",
+        "languages": ["Türkçe"],
+        "difficulty_levels": ["Orta"],
+        "last_updated": "2025-11-21",
         "version": "1.0.0"
       }
     }
@@ -87,9 +102,11 @@
             "sko_005",
             "sko_006",
             "sko_007"
+          ],
+          "ekonomik_kriz_kitap_ozetleri": [
           ]
         },
-  "last_updated": "2025-11-20",
+  "last_updated": "2025-11-21",
   "total_episodes": 47,
   "github_base_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/",
   "api_endpoints": {
