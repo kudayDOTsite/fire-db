@@ -24,7 +24,7 @@
       "id": "sesli_kitap_ozetleri",
       "title": "Finansal Özgürlük Hareketi Kitap Özetleri",
       "description": "Finansal özgürlük, erken emeklilik (FIRE) ve para ile anlamlı bir hayat kurma üzerine temel kitapların Türkçe sesli özetleri",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Books_icon.png",
+      "icon": "https://github.com/twitter/twemoji/raw/master/assets/svg/1f4d6.svg",
       "color": "#2f855a",
         "metadata": {
           "total_episodes": 7,
@@ -39,7 +39,7 @@
       "id": "ekonomik_kriz_kitap_ozetleri",
       "title": "Ekonomik Kriz ve Çöküş Kitap Özetleri",
       "description": "Dünyadaki büyük ekonomik krizler, finansal balonlar ve sistemik çöküşleri anlatan kitapların Türkçe sesli özetleri",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Credit-crisis_icon.png",
+      "icon": "https://github.com/twitter/twemoji/raw/master/assets/svg/1f4c9.svg",
       "color": "#b7791f",
         "metadata": {
           "total_episodes": 0,
