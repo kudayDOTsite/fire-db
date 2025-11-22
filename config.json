@@ -49,6 +49,21 @@
         "last_updated": "2025-11-21",
         "version": "1.0.0"
       }
+    },
+    {
+      "id": "girisimcilik_podcastleri",
+      "title": "Girişimcilik Üzerine Podcastler",
+      "description": "Girişimcilik, iş kurma, teknoloji ve başarı hikayeleri üzerine Türkçe podcast içerikleri",
+      "icon": "https://github.com/twitter/twemoji/raw/master/assets/svg/1f4bc.svg",
+      "color": "#3182ce",
+        "metadata": {
+          "total_episodes": 1,
+          "total_size": "1.9MB",
+        "languages": ["Türkçe"],
+        "difficulty_levels": ["Başlangıç"],
+        "last_updated": "2025-11-22",
+        "version": "1.0.0"
+      }
     }
   ],
         "contents": {
@@ -106,10 +121,13 @@
           "ekonomik_kriz_kitap_ozetleri": [
             "ekk_001",
             "ekk_002"
+          ],
+          "girisimcilik_podcastleri": [
+            "gip_001"
           ]
         },
-  "last_updated": "2025-11-21",
-  "total_episodes": 49,
+  "last_updated": "2025-11-22",
+  "total_episodes": 50,
   "github_base_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/",
   "api_endpoints": {
     "episodes": "episodes.json",

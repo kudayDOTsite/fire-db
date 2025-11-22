@@ -931,6 +931,20 @@
       "source_articles": [
         "https://www.wiley.com/en-us/Manias%2C+Panics%2C+and+Crashes%3A+A+History+of+Financial+Crises%2C+7th+Edition-p-9781119552004"
       ]
+    },
+    {
+      "id": "gip_001",
+      "title": "Kodu Paraya Çevirmek",
+      "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/girisimcilik_podcastleri/Kodu_Paraya_Cevirmek.opus",
+      "summary": "Yazılım geliştirme ve teknoloji becerilerini nasıl paraya çevirebileceğiniz üzerine pratik rehber. Girişimcilik, freelancing, yan projeler ve teknoloji tabanlı iş modelleri hakkında içgörüler.",
+      "author": "Bilinmiyor",
+      "source": "",
+      "tags": ["Girişimcilik", "Yazılım", "Teknoloji", "Freelancing", "İş Kurma"],
+      "duration": "8:10",
+      "file_size": "1.9MB",
+      "category": "girisimcilik_podcastleri",
+      "language": "Türkçe",
+      "source_articles": []
     }
   ]
 }
