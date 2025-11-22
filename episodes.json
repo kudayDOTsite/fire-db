@@ -945,6 +945,20 @@
       "category": "girisimcilik_podcastleri",
       "language": "Türkçe",
       "source_articles": []
+    },
+    {
+      "id": "gip_002",
+      "title": "Uygulama Fikrini Paraya Çevirme Yolculuğu ve Psikolojisi",
+      "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/girisimcilik_podcastleri/Uygulama_Fikrini_Paraya_Cevirme_Yolculugu_ve_Psikolojisi.opus",
+      "summary": "Bir uygulama fikrini gerçeğe dönüştürme ve paraya çevirme yolculuğu. Girişimcilik sürecindeki psikolojik zorluklar, motivasyon, kararlılık ve başarıya giden yolda karşılaşılan engeller hakkında içgörüler.",
+      "author": "Bilinmiyor",
+      "source": "",
+      "tags": ["Girişimcilik", "Uygulama Geliştirme", "Psikoloji", "Motivasyon", "İş Kurma"],
+      "duration": "15:25",
+      "file_size": "3.7MB",
+      "category": "girisimcilik_podcastleri",
+      "language": "Türkçe",
+      "source_articles": []
     }
   ]
 }

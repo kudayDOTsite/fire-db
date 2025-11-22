@@ -57,8 +57,8 @@
       "icon": "https://github.com/twitter/twemoji/raw/master/assets/svg/1f4bc.svg",
       "color": "#3182ce",
         "metadata": {
-          "total_episodes": 1,
-          "total_size": "1.9MB",
+          "total_episodes": 2,
+          "total_size": "5.6MB",
         "languages": ["Türkçe"],
         "difficulty_levels": ["Başlangıç"],
         "last_updated": "2025-11-22",
@@ -123,11 +123,12 @@
             "ekk_002"
           ],
           "girisimcilik_podcastleri": [
-            "gip_001"
+            "gip_001",
+            "gip_002"
           ]
         },
   "last_updated": "2025-11-22",
-  "total_episodes": 50,
+  "total_episodes": 51,
   "github_base_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/",
   "api_endpoints": {
     "episodes": "episodes.json",
