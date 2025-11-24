@@ -805,6 +805,22 @@
       ]
     },
     {
+      "id": "sko_008",
+      "title": "Milyonerliğe Hızlı Geçiş - Alternatif Sesli Kitap Özeti",
+      "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/sesli_kitap_ozetleri/Hizli_Serit_Servet_Sirlari_Emekliligi_Bekleme.opus",
+      "summary": "Aynı kitabın farklı bir anlatıcının gözünden derlenen ikinci özeti: Fastlane yaklaşımının psikolojik engelleri, gelir motoru seçimi, müşteri değer zinciri ve hızlandırılmış ölçeklenme stratejilerine odaklanıyor. Kitaptan alınan somut vaka örnekleri, uygulamalı fiyatlandırma modelleri ve risk yönetimi checklist'i ile daha taktik bir perspektif sunuyor.",
+      "author": "M. J. Demarco",
+      "source": "https://www.mjdemarco.com/books/the-millionaire-fastlane/",
+      "tags": ["Fastlane", "Ölçeklenebilir İş", "Psikoloji", "Gelir Motoru", "Risk Yönetimi"],
+      "duration": "18:32",
+      "file_size": "4.4MB",
+      "category": "sesli_kitap_ozetleri",
+      "language": "Türkçe",
+      "source_articles": [
+        "https://www.mjdemarco.com/books/the-millionaire-fastlane/"
+      ]
+    },
+    {
       "id": "sko_002",
       "title": "Aşırı Erken Emeklilik: Finansal Bağımsızlığa Felsefi ve Pratik Bir Rehber - Sesli Kitap Özeti",
       "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/sesli_kitap_ozetleri/Early_Retirement_Extreme.opus",

@@ -27,11 +27,11 @@
       "icon": "https://github.com/twitter/twemoji/raw/master/assets/svg/1f4d6.svg",
       "color": "#2f855a",
         "metadata": {
-          "total_episodes": 7,
-          "total_size": "25.6MB",
+          "total_episodes": 8,
+          "total_size": "30.0MB",
         "languages": ["Türkçe"],
         "difficulty_levels": ["Orta"],
-        "last_updated": "2025-11-21",
+        "last_updated": "2025-11-24",
         "version": "1.0.0"
       }
     },
@@ -116,7 +116,8 @@
             "sko_004",
             "sko_005",
             "sko_006",
-            "sko_007"
+            "sko_007",
+            "sko_008"
           ],
           "ekonomik_kriz_kitap_ozetleri": [
             "ekk_001",
@@ -129,8 +130,8 @@
             "gip_004"
           ]
         },
-  "last_updated": "2025-11-22",
-  "total_episodes": 53,
+  "last_updated": "2025-11-24",
+  "total_episodes": 54,
   "github_base_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/",
   "api_endpoints": {
     "episodes": "episodes.json",
