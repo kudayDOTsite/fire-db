@@ -1003,6 +1003,20 @@
       "category": "girisimcilik_podcastleri",
       "language": "Türkçe",
       "source_articles": []
+    },
+    {
+      "id": "ivk_001",
+      "title": "30 Yaşında Emekliliğin Basit Matematiği",
+      "file_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/sesler/ilham_veren_konusmalar/30_Yasinda_Emekliligin_Basit_Matematigi.opus",
+      "summary": "İlham veren konuşma formatında 30 yaşında emekliliğin ardındaki matematik: tasarruf oranı, yatırım disiplinleri ve yaşam tarzı seçimlerinin FIRE yolculuğunu nasıl hızlandırdığını örneklerle anlatıyor. Dinleyiciye motivasyon, hesaplama çerçevesi ve zihniyet dönüşümü sunuyor.",
+      "author": "Bilinmiyor",
+      "source": "",
+      "tags": ["İlham", "Erken Emeklilik", "FIRE", "Tasarruf Oranı", "Motivasyon"],
+      "duration": "15:52",
+      "file_size": "3.8MB",
+      "category": "ilham_veren_konusmalar",
+      "language": "Türkçe",
+      "source_articles": []
     }
   ]
 }
