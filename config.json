@@ -12,8 +12,8 @@
       "icon": "https://www.mrmoneymustache.com/wp-content/thesis/skins/mrmoneymustache/images/logo.png",
       "color": "#b32d2e",
         "metadata": {
-          "total_episodes": 43,
-          "total_size": "168.7MB",
+          "total_episodes": 44,
+          "total_size": "176.9MB",
         "languages": ["Türkçe"],
         "difficulty_levels": ["Başlangıç"],
         "last_updated": "2025-01-27",
@@ -125,7 +125,8 @@
           "mmm_040",
           "mmm_041",
           "mmm_042",
-          "mmm_043"
+          "mmm_043",
+          "mmm_044"
           ],
           "sesli_kitap_ozetleri": [
             "sko_001",
@@ -152,7 +153,7 @@
           ]
         },
   "last_updated": "2025-12-28",
-  "total_episodes": 58,
+  "total_episodes": 59,
   "github_base_url": "https://github.com/kudayDOTsite/fire-db/raw/refs/heads/main/",
   "api_endpoints": {
     "episodes": "episodes.json",
